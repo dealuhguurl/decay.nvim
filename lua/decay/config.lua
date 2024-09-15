@@ -21,7 +21,7 @@ M.highlights_base = function(colors, opts)
     Folded = { fg = colors.blue, bg = colors.background },
     FoldColumn = { fg = colors.blue, bg = colors.background },
     LineNr = { fg = colors.brightblack, bg = colors.background },
-    FloatBorder = { fg = colors.background, bg = colors.background },
+    FloatBorder = { fg = colors.blue, bg = colors.background },
     Whitespace = { fg = colors.red },
     VertSplit = { bg = colors.background, fg = colors.black },
     CursorLine = { bg = colors.cursorline },

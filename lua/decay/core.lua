@@ -83,7 +83,7 @@ end
 
 local function get_darker_decay()
 	return {
-		background = "#101419",
+		background = "#0d1117",
 		contrast = "#0e1217",
 		statusline_bg = "#13171c",
 		lighter = "#1a1e23",

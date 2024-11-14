@@ -227,7 +227,7 @@ M.highlights_base = function(colors, opts)
     GitSignsChange = { fg = colors.magenta }, -- diff mode: Changed line |diff.txt|
     GitSignsDelete = { fg = colors.red },     -- diff mode: Deleted line |diff.txt|
     -- Telescope
-    TelescopeBorder = { fg = colors.black, bg = colors.background },
+    TelescopeBorder = { fg = colors.magenta, bg = colors.background },
     TelescopeNormal = { fg = colors.foreground, bg = colors.background },
     TelescopeSelection = { fg = colors.foreground, bg = colors.statusline_bg },
     -- Indent Blank Line

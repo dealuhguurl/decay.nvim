@@ -80,7 +80,7 @@ function M.get(style)
 				block_kind = false,
 			},
 			italics = {
-				code = true,
+				code = false,
 				comments = false,
 			},
 		}
